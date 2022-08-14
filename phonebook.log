@@ -1,0 +1,6 @@
+==5598== Memcheck, a memory error detector
+==5598== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==5598== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==5598== Command: ./phonebook
+==5598== Parent PID: 5475
+==5598== 
